@@ -18,4 +18,4 @@ Vì thế bạn cần nắm chắc khái niệm props và state trong react
 
 # Giao diện tham khảo
 
-![event_calculator](https://github.com/anhtbok92/EventsReactNativeTraining/event_calculator.png)
+![event_calculator](https://github.com/anhtbok92/EventsReactNativeTraining/blob/master/event_calculator.png)
